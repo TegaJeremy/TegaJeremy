@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Jeremy Tega, a passionate backend developer with a strong interest in building robust and scalable applications.
+I'm Jeremy Tega, a passionate Software Engineer  with a strong interest in building robust and scalable applications.
 
 ## About Me
 
