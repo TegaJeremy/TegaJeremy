@@ -11,10 +11,10 @@ I'm Jeremy Tega, a passionate Fullstack Software Engineer with a strong interest
 
 ## Tech Stack
 
-- 💻 Languages: html,css, javascript, nodeJs, express, typescript, React, java, springboot, python,
+- 💻 Languages and Frameworks: Javascript, nodeJs, express, Typescript, React, Java, Springboot, Python,
 - Dango,Flask, FastApi, Golan,
 - BlockChain: move(sui)
-- 🛢️ Databases: mongoDB,mySQL
+- 🛢️ Databases: MongoDB,mySQL, Postgress, Superbase
 -- 🌐 Web Technologies: 
 
 ## How to Reach Me
